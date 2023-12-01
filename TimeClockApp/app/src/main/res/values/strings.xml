@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirstAcitivity</string>
+
+    <string-array name="action_options">
+        <item>Study</item>
+        <item>Life</item>
+        <item>Work</item>
+        <!-- 添加更多选项 -->
+    </string-array>
+</resources>
